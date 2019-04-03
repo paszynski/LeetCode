@@ -48,13 +48,7 @@ class Solution:
 
         return res
 
-    def printList(self):
-        res = str(self.val)
-        pom = self
-        while pom.next != None:
-            pom = pom.next
-            res += " -> " + str(pom.val)
-        print(res)
+
 
 
 s = Solution()

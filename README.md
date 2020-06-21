@@ -1,6 +1,7 @@
 # LeetCode
+Here are my solutions to LeetCode challenges. I am trying to explore Python 3.x here and my solutions may not always be 'pythonian'. Probably, in the future I will upload some solutions in C++ when I'll be preparing for coding competitions.
 
--|Completed tasks:
+-|Incomplete list of completed tasks:
 ---:|:----------
 [1](https://leetcode.com/problems/two-sum/)|Two Sum
 [2](https://leetcode.com/problems/add-two-numbers/)|Add Two Numbers
